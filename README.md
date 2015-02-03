@@ -111,7 +111,7 @@ def some_function([first|rest]) do
 end
 ```
 
-* Use the pipeline operator ( |> ) to chain functions together
+* Use the pipeline operator (`|>`) to chain functions together
 
 ```Elixir
 # not preferred
