@@ -1,8 +1,8 @@
 # Prelude
 
-> Liquid architecture. It's like jazz - you improvise, you work together, you
+> Liquid architecture. It's like jazz — you improvise, you work together, you
 > play off each other, you make something, they make something. <br/>
-> -- Frank Gehry
+> —Frank Gehry
 
 Style matters. Elixir has plenty of style but like all languages it can be
 stifled.  Don't stifle the style.
